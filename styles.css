@@ -1,0 +1,45 @@
+header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.regalos {
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 30pt;
+}
+
+#renavidad {
+    font-size: 16px;
+    color: red;
+    text-align: justify;
+}
+
+#repascoa {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+nav {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+li,
+ul {
+    display: inline;
+}
+
+.link1 {
+    color: blue;
+}
+
+.link2 {
+    color: green;
+}
+
+.link1:hover,
+.link2:hover {
+    color: orange;
+}
